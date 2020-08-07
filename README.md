@@ -1,4 +1,13 @@
-### Hi there <img src="https://github.com/mclods/mclods/blob/master/wave.gif?raw=true" width="30px">
+# Hi there <img src="https://github.com/mclods/mclods/blob/master/wave.gif?raw=true" width="30px">
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/mclods/mclods">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mclods&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sagnik's GitHub Stats" />
+</a>
+<a href="https://github.com/mclods/mclods">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mclods&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <!--
 **mclods/mclods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
