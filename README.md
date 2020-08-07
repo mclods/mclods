@@ -1,4 +1,4 @@
-### Hi there <img src="wave.gif" width="30px">
+### Hi there <img src="https://github.com/mclods/mclods/blob/master/wave.gif?raw=true" width="30px">
 
 <!--
 **mclods/mclods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
