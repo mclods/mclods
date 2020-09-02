@@ -1,10 +1,10 @@
 # Hi there <img src="https://github.com/mclods/mclods/blob/master/wave.gif?raw=true" width="30px">
 
-## I'm a Student Developer 👺
-- 🔭 I’m currently working on C++.
-- 🌱 I’m currently learning Trees, Graphs and Dynamic Programming.
+## I'm a Learner 👺
+- 🔭 I work on C++, Java and Python.
+- 🌱 I’m currently learning Trees, Graphs, Dynamic Programming, Machine Learning and AI.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Humans are the only animals that blush 😝.
+- ⚡ True fact: Save Earth 🌏 There is no planet B.
 
 
 ## &#x1f4c8; My GitHub Stats
