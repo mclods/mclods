@@ -1,6 +1,6 @@
 # Hi there <img src="https://github.com/mclods/mclods/blob/master/wave.gif?raw=true" width="30px">
 
-## I'm AI 👺
+## I'm Infinite 👺
 - 🔭 I work on C++, Java and Python.
 - 🌱 I’m currently planning the future.
 - 😄 Pronouns: He/Him
