@@ -1,8 +1,8 @@
 # Hi there <img src="https://github.com/mclods/mclods/blob/master/wave.gif?raw=true" width="30px">
 
-## I'm a Learner 👺
+## I'm AI 👺
 - 🔭 I work on C++, Java and Python.
-- 🌱 I’m currently learning Trees, Graphs, Dynamic Programming, Machine Learning and AI.
+- 🌱 I’m currently planning the future.
 - 😄 Pronouns: He/Him
 - ⚡ True fact: Save Earth 🌏 There is no planet B.
 
