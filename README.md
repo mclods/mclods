@@ -2,7 +2,7 @@
 
 ## I'm a Coder 🔰
 - 🔭 I work on C++, Java and Python.
-- 🌱 I’m currently planning the future.
+- 🌱 I’m currently learning Trees, Graphs and also ML.
 - 😄 Pronouns: He/Him
 - ⚡ True fact: Save Earth 🌏 There is no planet B.
 
