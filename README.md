@@ -1,8 +1,8 @@
 # Hi there <img src="https://github.com/mclods/mclods/blob/master/wave.gif?raw=true" width="30px">
 
-## I'm a Coder 🔰
-- 🔭 I work on C++, Java and Python.
-- 🌱 I’m currently learning Trees, Graphs and also ML.
+## I'm a Developer 🔰
+- 🔭 I work on C, C++, Java, Python, JavaScript and mySQL.
+- 🌱 I’m currently learning Algorithms, Machine Learning and Full-Stack Web Development.
 - 😄 Pronouns: He/Him
 - ⚡ True fact: Save Earth 🌏 There is no planet B.
 
